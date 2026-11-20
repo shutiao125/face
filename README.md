@@ -1,4 +1,4 @@
-# 🎨 DDPM Anime Face 模型评估报告
+# DDPM Anime Face 模型评估报告（微调模型评估指标还在进行中）
 
 > **生成时间**: 2026-11-09 16:09:40
 > **模型架构**: UNet (base_ch=64) + Cosine β Schedule + EMA
